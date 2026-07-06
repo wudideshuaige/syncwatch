@@ -1,0 +1,13 @@
+node_modules
+dist
+release
+android
+electron
+src
+public
+.electron-dev
+.electron-builder-cache
+*.apk
+*.exe
+*.blockmap
+start.ps1
